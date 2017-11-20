@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1508151504 source:d:\p. adamczyk\Æw_3\cwiczenie_3\zad_3\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdexcept>
+	<string>
+
+1508756118 source:d:\p.a\cwiczenie_3\zad_3\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1509338730 source:c:\users\admin\desktop\projekty c++\nowy folder\prubki\cwiczenie_3-master\zad_3\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdexcept>
+	<string>
+	<vector>
+
+1510575994 source:f:\programowanie\cwiczenie_3-master\zad_3\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<stdexcept>
+	<string>
+	<vector>
+
